@@ -1,0 +1,2 @@
+# RinMizuki-BOT-Terms-of-Services
+RINMIZUKI BOT TERMS OF SERVICES
