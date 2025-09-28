@@ -2,18 +2,39 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">   
+  <meta charset="UTF-8">
 </head>
 <body>
-    <h1>Terms of Service</h1>
-    <p>Welcome to <strong>RinMizuki</strong>! By using this bot, you agree to the following terms:</p>
-    <ul>
-        <li>You must not use RinMizuki to harm others or violate Discord's Terms of Service.</li>
-        <li>Do not attempt to reverse engineer, exploit, or interfere with RinMizuki.</li>
-        <li>The bot owner is not responsible for any damages caused by the use of RinMizuki.</li>
-        <li>RinMizuki may collect basic server and user data for functionality purposes only.</li>
-        <li>All Discord community rules apply when using RinMizuki.</li>
-    </ul>
-    <p>By using RinMizuki, you acknowledge that you have read and agree to these terms.</p>
+  <h1>Terms of Service</h1>
+  <p><strong>Effective Date:</strong> [September 28,2025]</p>
+
+  <h2>1. Introduction</h2>
+  <p>Welcome to <strong>[Your Bot Name]</strong>. By using this bot, you agree to comply with these Terms of Service. If you do not agree, do not use the bot.</p>
+
+  <h2>2. Bot Usage</h2>
+  <ul>
+    <li>[Your Bot Name] is provided for entertainment, utility, or server management purposes.</li>
+    <li>Users may use the bot in servers where it has been invited.</li>
+    <li>Do not attempt to modify, hack, or misuse the bot in any way.</li>
+  </ul>
+
+  <h2>3. User Responsibilities</h2>
+  <ul>
+    <li>Do not use the bot for harmful, illegal, or abusive purposes.</li>
+    <li>Respect other users and their data.</li>
+    <li>Follow Discord's <a href="https://discord.com/guidelines" target="_blank">Community Guidelines</a> and <a href="https://discord.com/terms" target="_blank">Terms of Service</a>.</li>
+  </ul>
+
+  <h2>4. Data Collection</h2>
+  <p>[Your Bot Name] may collect minimal technical data to operate correctly (e.g., server ID, user ID for commands). No personal data (email, passwords, messages) is collected without consent.</p>
+
+  <h2>5. Disclaimer</h2>
+  <p>[Your Bot Name] is provided “as-is.” We do not guarantee uptime or flawless performance. We are not responsible for any data loss, server issues, or damages resulting from bot usage.</p>
+
+  <h2>6. Changes</h2>
+  <p>These Terms of Service may change at any time. Users are encouraged to check this page periodically.</p>
+
+  <h2>7. Contact</h2>
+  <p>For questions about this ToS, contact: [Your Email or Discord ID]</p>
 </body>
 </html>
